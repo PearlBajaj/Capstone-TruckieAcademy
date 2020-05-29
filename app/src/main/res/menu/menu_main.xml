@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.augmentedhighereducationfortruckdrivers.MainActivity">
+    <item
+        android:id="@+id/add_lesson"
+        android:title="Add Lesson" />
+    <item
+        android:id="@+id/Help"
+        android:title="Help"/>
+
+    <item
+        android:id="@+id/Progress"
+        android:title="Progress"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"/>
+</menu>
